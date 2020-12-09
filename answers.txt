@@ -1,0 +1,6 @@
+1) In our opinion we would gave to go over 60 articles, in each page to search for our key word, and see how many matches do we have.
+eventually we think it would take 30 minutes (30 second for each article).
+
+2)We conclude that "bash" is a great tool to do complicated tasks in a short time. It definitely good for other similar tasks like to find how many articles were published by some name, or we can find who is the most popular person or product in any field nowadays. Also we can use it for security ways for example to find how many times the word "drugs" was mentioned in a "whats_up"/"Telegram" conversaion. We can create a search engine that shows in which website the word is most mentioned.
+
+3)By using the command " watch -n 3600" we can make the program run once in a hour, and to make sure that we dont have some double articles from the past we can use to command "grep" to check if the name of the page apears in the previous file.
